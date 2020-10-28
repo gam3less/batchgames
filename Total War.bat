@@ -1,4 +1,4 @@
-# It's a war game where you bomb/attack other countries
+:: It's a war game where you bomb/attack other countries
 
 @echo off
 color 0c
